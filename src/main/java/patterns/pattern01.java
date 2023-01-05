@@ -1,6 +1,7 @@
 package patterns;
 
 public class pattern01 {
+    //https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/09-patterns.md
     public static void main(String[] args) {
         int n = 3;
 
