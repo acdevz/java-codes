@@ -47,8 +47,12 @@ public class Strings {
         System.out.println(name.indent(45));
         System.out.println(name);
 
+
         String str = "abgghsba";
-        System.out.println(isPalindrome(str));
+        change(str);
+        System.out.println(str);
+
+
         }
 
         static boolean isPalindrome(String str){
@@ -59,5 +63,9 @@ public class Strings {
                 }
             }
             return true;
+        }
+
+        static void change(String str){
+            str += " Hi!";
         }
 }

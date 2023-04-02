@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="java-codes!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/fibonacci.java" afterDir="false" />
+    <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="Updates.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P12_IntegertoRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P2300_SuccessfulPairsofSpellsandPotions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P273_IntegertoEnglishWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/math/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Factors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Strings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +42,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;X:/__codes__/Java/java-codes/src/main/java/leetcode&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;X:/__codes__/Java/java-codes&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -58,9 +67,9 @@
       <recent name="patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Recursion">
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Recursion" />
+  <component name="RunManager">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.BinarySearch" />
       <module name="java-codes" />
       <extension name="coverage">
         <pattern>
@@ -72,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.fibonacci" />
+    <configuration name="Shuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Shuffle" />
       <module name="java-codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern02" />
+    <configuration name="SortInsertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.SortInsertion" />
       <module name="java-codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern05" />
+    <configuration name="SortSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.SortSelection" />
       <module name="java-codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern28" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.Strings" />
       <module name="java-codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.pattern28" />
-        <item itemvalue="Application.pattern05" />
-        <item itemvalue="Application.pattern02" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.SortSelection" />
+        <item itemvalue="Application.Shuffle" />
+        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.SortInsertion" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +151,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672900043118</updated>
+      <workItem from="1675609294646" duration="69000" />
+      <workItem from="1676364826033" duration="1499000" />
+      <workItem from="1677612212336" duration="1143000" />
+      <workItem from="1677613752877" duration="200000" />
+      <workItem from="1680382283525" duration="524000" />
+      <workItem from="1680420418084" duration="1723000" />
+      <workItem from="1680426246672" duration="3361000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>
@@ -164,8 +180,39 @@
       <option name="project" value="LOCAL" />
       <updated>1672929028928</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="java-codes!">
+      <created>1673046695966</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673046695966</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updates in recursion!">
+      <created>1673046737784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673046737784</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updates in recursion!">
+      <created>1673046758296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673046758296</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updates in recursion!">
+      <created>1674503935713</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674503935713</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -180,6 +227,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java-codes!" />
-    <option name="LAST_COMMIT_MESSAGE" value="java-codes!" />
+    <MESSAGE value="Updates in recursion!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates in recursion!" />
   </component>
 </project>
