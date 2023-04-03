@@ -4,7 +4,7 @@ public class Bitwise {
     public static void main(String[] args) {
 //        System.out.println(isOdd(24));
 
-        int[] arr = {1, 5, 6, 3, 6, 1, 5};
+        int[] arr = {3, 2, 1, 4};
         System.out.println(findUnique(arr));
     }
     /*

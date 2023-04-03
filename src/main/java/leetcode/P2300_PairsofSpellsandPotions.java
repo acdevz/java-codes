@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Arrays;
 
-public class P2300_SuccessfulPairsofSpellsandPotions {
+public class P2300_PairsofSpellsandPotions {
     //Approach: Sorting + Binary Search!
     public static void main(String[] args) {
         int[] spells = {5,1,3};
