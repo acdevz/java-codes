@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="leetcode Updates.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P2405_OptimalPartitionofString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P7_ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/P7_ReverseInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -154,7 +155,8 @@
       <workItem from="1680382283525" duration="524000" />
       <workItem from="1680420418084" duration="1723000" />
       <workItem from="1680426246672" duration="4106000" />
-      <workItem from="1680431734745" duration="46233000" />
+      <workItem from="1680431734745" duration="46879000" />
+      <workItem from="1680595389930" duration="2166000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>
