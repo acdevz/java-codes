@@ -4,7 +4,12 @@ import java.util.Arrays;
 
 public class Strings {
     public static void main(String[] args) {
-//        float num = 1.346f;
+
+        char[] ch = {'j','a','v','a'};
+        String s = new String(ch);
+//        or...
+//        s = "java";
+        System.out.println(s);
 //
 //        //pretty printing... printf()...
 //        /* placeholders:

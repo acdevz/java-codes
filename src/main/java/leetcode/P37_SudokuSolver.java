@@ -27,7 +27,7 @@ public class P37_SudokuSolver {
                         {'.', '.', '.', '2', '7', '5', '9', '.', '.'}};
 
         char[][] board =
-                        {{'5', '.', '.', '.', '4', '8', '.', '.', '.'},
+                        {{'.', '.', '.', '.', '4', '8', '.', '.', '.'},
                         {'.', '.', '.', '.', '.', '.', '.', '.', '.'},
                         {'.', '2', '.', '1', '.', '9', '.', '.', '.'},
                         {'.', '.', '7', '.', '.', '.', '2', '4', '.'},
@@ -38,8 +38,9 @@ public class P37_SudokuSolver {
                         {'.', '.', '.', '2', '7', '5', '9', '.', '.'}};
 
 
-        solveSudoku(board);
-        for (char[] row : board) {
+//        solveSudoku(board);
+        solve(board2);
+        for (char[] row : board2) {
             System.out.println(Arrays.toString(row));
         }
     }
