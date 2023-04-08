@@ -38,8 +38,8 @@ public class P37_SudokuSolver {
                         {'.', '.', '.', '2', '7', '5', '9', '.', '.'}};
 
 
-//        solveSudoku(board);
-        solve(board2);
+        solveSudoku(board);
+//        solve(board2);
         for (char[] row : board2) {
             System.out.println(Arrays.toString(row));
         }
