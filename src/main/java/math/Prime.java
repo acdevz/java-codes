@@ -10,12 +10,13 @@ public class Prime {
     }
 
 
-    //finding primes by multiples: Sieve of Eratosthenes!!!
+   /* finding primes by multiples: Sieve of Eratosthenes!!!
+   * Time Complexity : O( N * log(log(N)) ) */
     static void findPrimes(int n){
         boolean[] primes = new boolean[n-1];
         for (int i = 2; i*i <= n; i++) {
             if( !primes[i-2] ){
-                for (int j = i + i; j <= n; j += i) {
+                for (int j = 2 * i; j <= n; j += i) {
                     primes[j-2] = true;
                 }
             }
