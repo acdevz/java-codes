@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="leetcode Updates.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/Modulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/math/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/math/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/math/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Factors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +159,7 @@
       <workItem from="1680431734745" duration="46879000" />
       <workItem from="1680595389930" duration="10371000" />
       <workItem from="1680682391987" duration="1814000" />
-      <workItem from="1680962328051" duration="21751000" />
+      <workItem from="1680962328051" duration="26722000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>
