@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="leetcode Updates.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P2390_RemovingStarsFromaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/object/ObjectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/CheckAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/Subclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/access/Access.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/access/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/access/Subclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/polymorphism/ObjPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/polymorphism/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P71_SimplifyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P844_BackspaceStringCompare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P268_MissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/P268_MissingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/abstracts/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/abstracts/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Parent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +163,7 @@
       <workItem from="1680595389930" duration="10371000" />
       <workItem from="1680682391987" duration="1814000" />
       <workItem from="1680962328051" duration="33543000" />
-      <workItem from="1681106983038" duration="43337000" />
+      <workItem from="1681106983038" duration="58918000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>
