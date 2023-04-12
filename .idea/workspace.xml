@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="leetcode Updates.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P20_ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/statics/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/statics/InnerClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/statics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/statics/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P2390_RemovingStarsFromaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/object/ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/CheckAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/Subclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/access/Access.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/access/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/access/Subclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/polymorphism/ObjPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/properties/polymorphism/Shapes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortInsertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.SortInsertion" />
-      <module name="java-codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SortSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.SortSelection" />
       <module name="java-codes" />
@@ -139,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Subclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.properties.access.Subclass" />
+      <module name="java-codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.properties.access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Subclass" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.SortSelection" />
         <item itemvalue="Application.Shuffle" />
         <item itemvalue="Application.Strings" />
-        <item itemvalue="Application.SortInsertion" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +172,7 @@
       <workItem from="1680595389930" duration="10371000" />
       <workItem from="1680682391987" duration="1814000" />
       <workItem from="1680962328051" duration="33543000" />
-      <workItem from="1681106983038" duration="13026000" />
+      <workItem from="1681106983038" duration="43337000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>
