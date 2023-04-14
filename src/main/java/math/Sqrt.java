@@ -3,8 +3,8 @@ package math;
 public class Sqrt {
     public static void main(String[] args) {
         int n = 37;
-        System.out.println(sqrt2(n));
-        System.out.println(sqrt1(n, 15));
+//        System.out.println(sqrt2(n));
+        System.out.println(sqrt1(2147, 4));
     }
     
      /*Finding Square Root of Numbers
@@ -24,7 +24,7 @@ public class Sqrt {
                 return m;
             }
         }
-        double root = m;
+        double root = m; // also check root * root < m : must!
         double k = 0.1;
         for (int i = 0; i < p; i++) {
             while (root * root <= n) {

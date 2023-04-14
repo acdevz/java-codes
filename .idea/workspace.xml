@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="leetcode Updates.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P71_SimplifyPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P844_BackspaceStringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/Regex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P268_MissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/P268_MissingNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/abstracts/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/abstracts/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P12_IntegertoRoman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P20_ValidParentheses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P2133_ContainsAllNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P2300_PairsofSpellsandPotions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P2390_RemovingStarsFromaString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P2405_OptimalPartitionofString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P2439_MinimizeMaximumofArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P268_MissingNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P273_IntegertoEnglishWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P28_FindtheIndexoftheFirstOccurrenceinString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P36_ValidSudoku.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P37_SudokuSolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P3_LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P71_SimplifyPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P7_ReverseInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P844_BackspaceStringCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P881_BoatstoSavePeople.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/math/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Sqrt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +82,7 @@
       <recent name="patterns" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.BinarySearch" />
       <module name="java-codes" />
@@ -163,7 +177,10 @@
       <workItem from="1680595389930" duration="10371000" />
       <workItem from="1680682391987" duration="1814000" />
       <workItem from="1680962328051" duration="33543000" />
-      <workItem from="1681106983038" duration="58918000" />
+      <workItem from="1681106983038" duration="60398000" />
+      <workItem from="1681328380497" duration="17875000" />
+      <workItem from="1681452659107" duration="1002000" />
+      <workItem from="1681457797962" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>
