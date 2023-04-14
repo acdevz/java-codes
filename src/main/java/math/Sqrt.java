@@ -4,7 +4,7 @@ public class Sqrt {
     public static void main(String[] args) {
         int n = 37;
 //        System.out.println(sqrt2(n));
-        System.out.println(sqrt1(2147, 4));
+        System.out.println(sqrt1(21479, 4));
     }
     
      /*Finding Square Root of Numbers
