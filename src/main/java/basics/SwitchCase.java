@@ -8,15 +8,15 @@ public class SwitchCase {
 //        char l = in.next().charAt(0);
 //        System.out.println(l);
 
-//        enhanced switch, no use os breaks!!!
+//        enhanced switch, no use of breaks!!!
 
-//        System.out.print("What's ur fruit? ");
-//        String fruit = in.next();
-//        switch (fruit) {
-//            case "Apple" -> System.out.println("That sweet red, but i like the green.");
-//            case "Guava" -> System.out.println("That white flesh or red?");
-//            default -> System.out.println("You didn't matched mine.");
-//        }
+        System.out.print("What's ur fruit? ");
+        String fruit = in.next();
+        switch (fruit) {
+            case "Apple" -> System.out.println("That sweet red, but i like the green.");
+            case "Guava" -> System.out.println("That white flesh or red?");
+            default -> System.out.println("You didn't matched mine.");
+        }
 
 
 //        Skipping breaks!
