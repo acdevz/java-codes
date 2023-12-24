@@ -12,9 +12,14 @@ public class Main {
 //        Box iron = new IronBox(); //calls default Box()
 
 
-        IronBox box = new IronBox(2, 5, 1, 3.456);
-        IronBox ironbox = new IronBox(box);
-        System.out.println(ironbox.density);
-        System.out.println(box.density);
+//        IronBox box = new IronBox(2, 5, 1, 3.456);
+//        IronBox ironbox = new IronBox(box);
+//        System.out.println(ironbox.density);
+//        System.out.println(box.density);
+
+        Box box = new Box(2, 5, 1);
+        Box ironbox = new IronBox(3, 6, 2, 3.456);
+        box.print();
+        ironbox.print();
     }
 }

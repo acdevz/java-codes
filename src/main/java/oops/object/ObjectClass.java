@@ -1,7 +1,5 @@
 package oops.object;
 
-import oops.properties.access.Access;
-
 public class ObjectClass {
     protected int num;
     public ObjectClass(int num) {
@@ -15,6 +13,10 @@ public class ObjectClass {
 
     @Override
     public boolean equals(Object obj) {
+        if(this == obj) return true;
+
+        if(!(obj instanceof ObjectClass)) return false;
+
         return this.num == ((ObjectClass)obj).num;
     }
 
@@ -26,7 +28,8 @@ public class ObjectClass {
     public static void main(String[] args) {
         ObjectClass obj1 = new ObjectClass(22);
         ObjectClass obj2 = new ObjectClass(22);
-////        ObjectClass obj2 = obj1;
+
+//        ObjectClass obj2 = obj1;
 //        System.out.println(obj1 == obj2);
 //        System.out.println(obj1.equals(obj2));
 

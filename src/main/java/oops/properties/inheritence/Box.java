@@ -34,6 +34,10 @@ public class Box {
         this.h = other.h;
         this.density = other.density;
     }
+
+    void print(){
+        System.out.println("I am a box");
+    }
 }
 
 class IronBox extends Box{
@@ -51,5 +55,9 @@ class IronBox extends Box{
         /* super : calls the parent class constructor! */
         super(l, b, h);
         this.density = d;
+    }
+
+    void print(){
+        System.out.println("I am an iron box");
     }
 }

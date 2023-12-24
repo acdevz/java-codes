@@ -2,10 +2,11 @@ package oops;
 
 public class Basic {
     public static void main(String[] args) {
-//        Student aman = new Student(); //constructor function
-//        aman.roll = 9;
-//        aman.name = "Aman Chandra";
-//        aman.gpa = 7.22;
+/*
+*        NOTE : Creating multiple objects by one type only (A good practice)
+*        Animal obj = new Cat();
+*        obj = new Dog();
+*/
 
         Student aman = new Student(9, "Aman Chandra", 7.22); //constructor function
 
@@ -15,6 +16,27 @@ public class Basic {
 
         Student jack = new Student();
         System.out.println(jack.name+ ", cgpa: "+ jack.gpa);
+
+
+        // ways to create an object
+        // 1. using new keyword
+        Test t1 = new Test("t1");
+
+//         2. using Class.forName()
+//        try {
+//            Test t2 = (Test) Class.forName("Test").newInstance();
+//        } catch (InstantiationException | IllegalAccessException | ClassNotFoundException e) {
+//            e.printStackTrace();
+//        }
+
+        // 3. using clone()
+//        try {
+//            Test t3 = t1.clone();
+//        } catch (CloneNotSupportedException e) {
+//            e.printStackTrace();
+//        }
+
+        // 4. using deserialization
 
     }
 }

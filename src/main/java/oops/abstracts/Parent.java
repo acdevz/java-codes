@@ -10,7 +10,13 @@ public abstract class Parent {
     }
 
     /* cannot create objects of abstract class, else override abstract methods while instantiating */
-    abstract void carrer(); /* with no body implementation */
+    abstract void career(); /* with nobody implementation */
+
+    /* but you can have non-abstract methods */
+    /* that's why it does not support multiple inheritance.*/
+    void print(){
+        System.out.println("I am a parent");
+    };
 }
 
 class Son extends Parent{
@@ -18,8 +24,12 @@ class Son extends Parent{
         super(age);
     }
 
-    void carrer(){
+    void career(){
         System.out.println("Entrepreneur");
+    }
+
+    void getAge(){
+        System.out.println(age);
     }
 }
 
@@ -28,7 +38,7 @@ class Daughter extends Parent{
         super(age);
     }
 
-    void carrer(){
+    void career(){
         System.out.println("Designer");
     }
 }

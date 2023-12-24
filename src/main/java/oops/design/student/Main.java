@@ -1,41 +1,15 @@
 package oops.design.student;
+import java.util.Scanner;
 
-public class Student {
-    private String name;
-    private int age;
-    private int rollNumber;
-    private Subject subjectList;
-    // ...other props
-
-    public String getName() {
-        return name;
+public class Main{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        Student[] student = new Student[100];
+        for(int i = 0; i < 100; i++){
+            student[i] = new Student();
+            student[i].setName(sc.nextLine());
+            student[i].setAge(sc.nextInt());
+            // take other inputs
+        }
     }
-
-    public int getAge() {
-        return age;
-    }
-
-    public int getRollNumber() {
-        return rollNumber;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
-    }
-
-    public void setRollNumber(int rollNumber) {
-        this.rollNumber = rollNumber;
-    }
-
-    
-}
-
-class Subject{
-    String name;
-    String code;
-    int maxMarks;
 }
