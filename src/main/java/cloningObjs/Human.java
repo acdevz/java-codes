@@ -1,4 +1,4 @@
-package CloningObjs;
+package cloningObjs;
 
 import java.util.Arrays;
 

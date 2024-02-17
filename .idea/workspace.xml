@@ -4,73 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/LinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/ArrayDeques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/PriorityQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/HashSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/LinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/TreeSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Maps/HashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/InnerClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/constructors/Chaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/constructors/CopyConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="leetcode Updates.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P005/P005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_projects_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/isSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortQuick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testing/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CloningObjs/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CloningObjs/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CloningObjs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CloningObjs/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/ArrayClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/ArrayClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/ArrayLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionHandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionHandling/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionHandling/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionHandling/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambda/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/abstracts/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/abstracts/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/abstracts/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/constructors/SecureObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/constructors/SecureObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/design/bankAccount/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/design/bankAccount/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/design/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/design/car/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/design/car/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/design/car/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/design/events/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/design/events/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/design/mobilePhone/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/design/mobilePhone/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/design/student/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/design/student/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/design/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/design/student/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/design/student/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/design/student/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/generics/CustomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/generics/CustomArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/generics/CustomGenArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/generics/CustomGenArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/generics/comparables/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/generics/comparables/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/Brake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/Brake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/DieselEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/DieselEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/ElectricEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/ElectricEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/Media.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/MusicSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/MusicSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/MyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/MyCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/extendedInterface/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/extendedInterface/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/extendedInterface/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/extendedInterface/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/extendedInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/extendedInterface/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/interfaces/nestedInterface/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/interfaces/nestedInterface/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/object/ObjectClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/object/ObjectClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/properties/inheritence/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/singleton/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Format.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Format.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/SplitAndJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/SplitAndJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Stringbuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Stringbuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Stringbuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Stringbuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/TokenizerAndJoiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/TokenizerAndJoiner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CloningObjs/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cloningObjs/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CloningObjs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cloningObjs/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,53 +82,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Array.executor": "Run",
-    "Application.ArrayClass.executor": "Run",
-    "Application.ArrayDeques.executor": "Run",
-    "Application.ArrayLists.executor": "Run",
-    "Application.Arrays2D.executor": "Run",
-    "Application.Chaining.executor": "Run",
-    "Application.CopyConstructor.executor": "Run",
-    "Application.Examples.executor": "Run",
-    "Application.Format.executor": "Run",
-    "Application.HashMaps.executor": "Run",
-    "Application.Inputs.executor": "Run",
-    "Application.LinkedLists.executor": "Run",
-    "Application.Loader.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PriorityQueues.executor": "Run",
-    "Application.Singleton.executor": "Run",
-    "Application.Stacks.executor": "Run",
-    "Application.StringBuilder.executor": "Run",
-    "Application.Stringbuffer.executor": "Run",
-    "Application.Stringbuilder.executor": "Run",
-    "Application.Strings.executor": "Run",
-    "Application.SwitchCase.executor": "Run",
-    "Application.TokenizerAndJoiner.executor": "Run",
-    "Node.js.hello.js.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "java.suggest.annotation.dependency": "false",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "X:/__codes__/Java/java-codes",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDeques.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Chaining.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Examples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Format.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMaps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inputs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Labs.week02.P001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Labs.week03.P001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriorityQueues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Singleton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortCyclic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortMerge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sqrt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stacks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringbuffer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringbuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TokenizerAndJoiner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.isSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.hello.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;java.suggest.annotation.dependency&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;X:/__codes__/Spring/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\Aman\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="ec5e8808-5846-4e32-a110-2096d304c504" reportId="java-codes/qodana/2023-12-21" />
@@ -168,6 +174,9 @@
       <recent name="X:\__codes__\Java\java-codes\src\main\java\patterns" />
       <recent name="X:\__codes__\Java\java-codes\src\main\java\recursion" />
       <recent name="X:\__codes__\Java\java-codes\src\main\java\strings" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\__codes__\Java\java-codes\src\main\java\Labs\week02\P005" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="patterns" />
@@ -244,6 +253,43 @@
       <workItem from="1703437880798" duration="4036000" />
       <workItem from="1703448719570" duration="181000" />
       <workItem from="1703448931223" duration="3800000" />
+      <workItem from="1703453588198" duration="68000" />
+      <workItem from="1703528371838" duration="3000" />
+      <workItem from="1703550632047" duration="103000" />
+      <workItem from="1703551105223" duration="415000" />
+      <workItem from="1704194554430" duration="595000" />
+      <workItem from="1704309560165" duration="5000" />
+      <workItem from="1704519868044" duration="1921000" />
+      <workItem from="1704560582794" duration="594000" />
+      <workItem from="1704830338191" duration="598000" />
+      <workItem from="1704974719683" duration="142000" />
+      <workItem from="1705986872347" duration="6500000" />
+      <workItem from="1706300608046" duration="95000" />
+      <workItem from="1706300835193" duration="34000" />
+      <workItem from="1706349052984" duration="18000" />
+      <workItem from="1706349097567" duration="412000" />
+      <workItem from="1706349549106" duration="538000" />
+      <workItem from="1706350116730" duration="991000" />
+      <workItem from="1706364926966" duration="3255000" />
+      <workItem from="1706371980351" duration="10000" />
+      <workItem from="1706505278766" duration="9691000" />
+      <workItem from="1706561128146" duration="1617000" />
+      <workItem from="1706656204737" duration="8000" />
+      <workItem from="1706729268452" duration="2486000" />
+      <workItem from="1706881293206" duration="1975000" />
+      <workItem from="1706988534293" duration="5000" />
+      <workItem from="1707081238221" duration="5715000" />
+      <workItem from="1707114550431" duration="4771000" />
+      <workItem from="1707196259890" duration="5443000" />
+      <workItem from="1707329750312" duration="2236000" />
+      <workItem from="1707504247846" duration="1216000" />
+      <workItem from="1707629603876" duration="626000" />
+      <workItem from="1707714458055" duration="6838000" />
+      <workItem from="1707762288727" duration="28000" />
+      <workItem from="1707800595945" duration="6659000" />
+      <workItem from="1707971756771" duration="5825000" />
+      <workItem from="1708105331536" duration="4487000" />
+      <workItem from="1708165199933" duration="15776000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>
