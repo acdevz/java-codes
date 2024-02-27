@@ -4,13 +4,19 @@ import java.util.Scanner;
 
 public class P012 {
     private static boolean isArmstong(int num) {
+        int digits = (int) (Math.log10(num) + 1);
         int sum = 0;
         int n = num;
         while (n > 0) {
             int digit = n % 10;
             n /= 10;
-            sum += digit * digit * digit;
+            int product = 1;
+            for(int i = 0; i < digits; i++){
+                product *= digit;
+            }
+            sum += product;
         }
+
         return sum == num;
     }
 

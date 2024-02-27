@@ -2,7 +2,7 @@ package recursion;
 
 public class StringReverse {
     private static void reverse(StringBuilder str){
-        if(str.length() == 0)
+        if(str.isEmpty())
             return;
 
         char ch = str.charAt(0);

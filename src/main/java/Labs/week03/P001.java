@@ -33,9 +33,11 @@ class Temperature{
         for (String[] strings : s.table) {
             if (temp == Integer.parseInt(strings[1])) {
                 System.out.println("Its the freezing point of " + strings[0]);
+                return;
             }
             if (temp == Integer.parseInt(strings[2])) {
                 System.out.println("Its the boiling point of " + strings[0]);
+                return;
             }
         }
         System.out.println("Its neither freezing nor boiling point of any substance");

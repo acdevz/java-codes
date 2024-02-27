@@ -7,7 +7,7 @@ import java.util.Objects;
 
 public class Test {
     public static void main(String[] args) {
-        String s = "A";
-        System.out.println(s.equals("A"));
+        String s = "A34";
+        System.out.println(s.charAt(2) - '0');
     }
 }

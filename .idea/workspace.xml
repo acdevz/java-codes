@@ -4,49 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="leetcode Updates.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P005/P005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_projects_/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/isSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortQuick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testing/Test.java" afterDir="false" />
+    <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="long long updates pending ;)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CloningObjs/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cloningObjs/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CloningObjs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cloningObjs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week01/P006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week01/P007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week01/P012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week01/P012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/PowerSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/PowerSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +98,10 @@
     &quot;Application.P02.executor&quot;: &quot;Run&quot;,
     &quot;Application.P03.executor&quot;: &quot;Run&quot;,
     &quot;Application.P04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P06.executor&quot;: &quot;Run&quot;,
     &quot;Application.Power.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerSet.executor&quot;: &quot;Run&quot;,
     &quot;Application.PriorityQueues.executor&quot;: &quot;Run&quot;,
     &quot;Application.Singleton.executor&quot;: &quot;Run&quot;,
     &quot;Application.SortCyclic.executor&quot;: &quot;Run&quot;,
@@ -289,7 +268,16 @@
       <workItem from="1707800595945" duration="6659000" />
       <workItem from="1707971756771" duration="5825000" />
       <workItem from="1708105331536" duration="4487000" />
-      <workItem from="1708165199933" duration="15776000" />
+      <workItem from="1708165199933" duration="16418000" />
+      <workItem from="1708319366980" duration="6514000" />
+      <workItem from="1708358283156" duration="2719000" />
+      <workItem from="1708405665631" duration="5639000" />
+      <workItem from="1708432713678" duration="4333000" />
+      <workItem from="1708542994022" duration="1347000" />
+      <workItem from="1708692056871" duration="2729000" />
+      <workItem from="1708699135826" duration="23152000" />
+      <workItem from="1708926804787" duration="2970000" />
+      <workItem from="1709010424365" duration="1454000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>
@@ -382,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1680598353026</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="long long updates pending ;)">
+      <option name="closed" value="true" />
+      <created>1708192564073</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708192564073</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,7 +399,8 @@
     <MESSAGE value="java-codes!" />
     <MESSAGE value="Updates in recursion!" />
     <MESSAGE value="leetcode Updates." />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode Updates." />
+    <MESSAGE value="long long updates pending ;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="long long updates pending ;)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
