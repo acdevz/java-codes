@@ -1,6 +1,7 @@
 package Iterables.Collections.Lists;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class ArrayLists {
@@ -25,6 +26,16 @@ public class ArrayLists {
         list.remove(0);
         System.out.println(list.contains(36));
         System.out.println(list);
+
+        //enhanced for loop!
+        for (int i: list){
+            System.out.print(i + " ");
+        }
+
+        // sorting
+        Collections.sort(list); // ascending order or list.sort(null);
+        list.sort(null);
+        list.sort(Collections.reverseOrder()); // descending order
 
         //Multi-dimensional ArrayLists
 

@@ -4,19 +4,9 @@ public class P06 {
     /* Binomial Heap */
     public static void main(String[] args) {
         BinomialHeap heap = new BinomialHeap();
-        heap.insert(50);
-        heap.insert(60);
-        heap.insert(70);
-        heap.insert(80);
-        heap.insert(90);
-        heap.insert(100);
-        heap.insert(110);
-        heap.insert(120);
-        heap.insert(10);
-        heap.insert(20);
-        heap.insert(30);
-        heap.insert(40);
-
+        for (int i : new int[]{50, 60, 70, 80, 90, 100, 110, 120, 10, 20, 30, 40}) {
+            heap.insert(i);
+        }
         System.out.println(heap.extractMin());
     }
 }

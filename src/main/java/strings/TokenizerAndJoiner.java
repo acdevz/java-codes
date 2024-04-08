@@ -7,7 +7,7 @@ public class TokenizerAndJoiner {
     public static void main(String[] args) {
 
         // StringTokenizer...
-        StringTokenizer st1 = new StringTokenizer("Hello Java, How are you", " ");
+        StringTokenizer st1 = new StringTokenizer("Hello Java, How are you", ", ");
 
         while (st1.hasMoreTokens())
             System.out.println(st1.nextToken());

@@ -38,7 +38,10 @@ public class Strings {
 //        str.concat(" Hi!"); // returns! not changes the value of str...
         System.out.println(str + " is palindrome? " + isPalindrome(str));
 
-
+        String sg = "java";
+        System.out.println(sg.compareToIgnoreCase("jav"));
+        System.out.println(sg.equals("java"));
+        System.out.println(sg.replace('a', 'A'));
 /*
         NOTE*
 

@@ -2,6 +2,7 @@ package arrays;
 
 import java.sql.SQLOutput;
 import java.util.Arrays;
+import java.util.Collections;
 
 public class ArrayClass {
     public static void main(String[] args) {
@@ -27,5 +28,6 @@ public class ArrayClass {
         }
 
         System.out.println(Arrays.deepToString(arr5));
+        Arrays.sort(arr);
     }
 }
