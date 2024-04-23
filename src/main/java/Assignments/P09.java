@@ -34,16 +34,16 @@ class Activity {
     }
 }
 
-class ActivityComparator implements Comparator<Activity>{
-    @Override
-    public int compare(Activity o1, Activity o2) {
-        return Integer.compare(o1.finish, o2.finish);
-    }
-}
-
 class activitySelector{
     List<Activity> activities;
     List<Activity> ans = new ArrayList<>();
+
+    static class ActivityComparator implements Comparator<Activity>{
+        @Override
+        public int compare(Activity o1, Activity o2) {
+            return Integer.compare(o1.finish, o2.finish);
+        }
+    }
 
     activitySelector(List<Activity> activities){
         this.activities = activities;
@@ -55,8 +55,8 @@ class activitySelector{
         for(int m = 1; m < n; m++){
             if(activities.get(m).start >= activities.get(i).finish){
                 ans.add(activities.get(m));
+                i = m;
             }
-            i = m;
         }
     }
 }

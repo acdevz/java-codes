@@ -11,10 +11,11 @@ public class P08 {
         root.right = new TreeNode(15);
         root.left.left = new TreeNode(20);
         root.left.right = new TreeNode(5);
+        System.out.println("Inorder Traversal of the tree:");
         inorderTraversal(root);
 
         TreeNode newRoot = BinaryTreeToBST.convertToBST(root);
-        System.out.println("Inorder Traversal of the new BST:");
+        System.out.println("\nInorder Traversal of the new BST:");
         inorderTraversal(newRoot);
     }
 
