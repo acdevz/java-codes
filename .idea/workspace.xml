@@ -5,23 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="new updates.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P09b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P09c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P09d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P09e.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P09f.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week09/P001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week09/P002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week09/P003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/LifeCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/TestSynchronisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11e.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11f.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11g.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12e.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week12/P001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week12/P002.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P09a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P10b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P10c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10c.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P11.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +62,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -82,6 +88,7 @@
     &quot;Application.CopyConstructor.executor&quot;: &quot;Run&quot;,
     &quot;Application.Examples.executor&quot;: &quot;Run&quot;,
     &quot;Application.Format.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphChromaticNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashMaps.executor&quot;: &quot;Run&quot;,
     &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
     &quot;Application.Inner.executor&quot;: &quot;Run&quot;,
@@ -123,6 +130,24 @@
     &quot;Application.P09d.executor&quot;: &quot;Run&quot;,
     &quot;Application.P09e.executor&quot;: &quot;Run&quot;,
     &quot;Application.P09f.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P10a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P10b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P10c.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P10d.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P11a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P11b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P11c.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P11d.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P11e.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P11f.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P11g.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P12a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P12b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P12c.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P12d.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P12e.executor&quot;: &quot;Run&quot;,
     &quot;Application.Power.executor&quot;: &quot;Run&quot;,
     &quot;Application.PowerSet.executor&quot;: &quot;Run&quot;,
     &quot;Application.PriorityQueues.executor&quot;: &quot;Run&quot;,
@@ -189,26 +214,6 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="patterns" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="NormalMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments.NormalMultiplication" />
-      <module name="java-codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.NormalMultiplication" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -351,6 +356,22 @@
       <workItem from="1713534774319" duration="648000" />
       <workItem from="1713552915800" duration="20905000" />
       <workItem from="1713768566379" duration="1718000" />
+      <workItem from="1713849212609" duration="3855000" />
+      <workItem from="1713991123183" duration="16561000" />
+      <workItem from="1714078868371" duration="2379000" />
+      <workItem from="1714120361309" duration="4844000" />
+      <workItem from="1714125878643" duration="1665000" />
+      <workItem from="1714332392313" duration="10081000" />
+      <workItem from="1714454356745" duration="7200000" />
+      <workItem from="1714604684933" duration="17737000" />
+      <workItem from="1714760083011" duration="443000" />
+      <workItem from="1714760905916" duration="6293000" />
+      <workItem from="1714900901911" duration="606000" />
+      <workItem from="1714914314413" duration="9599000" />
+      <workItem from="1715105755609" duration="2443000" />
+      <workItem from="1715242540063" duration="846000" />
+      <workItem from="1715274876833" duration="622000" />
+      <workItem from="1715761833672" duration="6452000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>

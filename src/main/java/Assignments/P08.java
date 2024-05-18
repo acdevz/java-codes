@@ -44,13 +44,8 @@ class BinaryTreeToBST {
     private static List<Integer> nodeList = new ArrayList<>();
 
     public static TreeNode convertToBST(TreeNode root) {
-        // Store nodes in the list
         storeNodes(root, nodeList);
-
-        // Sort the list
         Collections.sort(nodeList);
-
-        // Rebuild the BST from the sorted list
         return rebuildBST(nodeList, 0, nodeList.size() - 1);  // complexity: O(n)
     }
 
