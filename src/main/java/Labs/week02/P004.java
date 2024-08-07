@@ -15,7 +15,7 @@ public class P004 {
         System.out.println("HDFC Interest: " + hdfc.interest);
 
 //        downcasting
-        SBI sbi1 = (SBI) sbi;
+            SBI sbi1 = (SBI) sbi;
         ICICI icici1 = (ICICI) icici;
         HDFC hdfc1 = (HDFC) hdfc;
 

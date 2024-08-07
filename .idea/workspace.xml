@@ -5,29 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="new updates.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11e.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11f.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P11g.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12e.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week12/P001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Labs/week12/P002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basics/Consoles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basics/Serializations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/RuntimeExec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/TestCallRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sockets/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sockets/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testing/RatInAMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testing/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P09a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P10b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P10c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P10c.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P12c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12c.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P12d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P12e.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12e.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/MoreOnCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/LinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/PriorityQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/PriorityQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/HashSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/HashSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/SortedSets/TreeSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/SortedSets/TreeSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Maps/HashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Maps/HashMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Maps/SortedMaps/TreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Maps/SortedMaps/TreeMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week02/P004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/Arrays2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Arrays2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Inputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/math/Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Bitwise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/TestSynchronisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/TestSynchronisation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/ThreadbyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/ThreadbyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/Threadbythread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Threadbythread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/InnerClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/InnerClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Stringbuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Stringbuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +80,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -83,8 +101,10 @@
     &quot;Application.ArrayDeques.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayLists.executor&quot;: &quot;Run&quot;,
     &quot;Application.Arrays2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bitwise.executor&quot;: &quot;Run&quot;,
     &quot;Application.Chaining.executor&quot;: &quot;Run&quot;,
     &quot;Application.Characters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Consoles.executor&quot;: &quot;Run&quot;,
     &quot;Application.CopyConstructor.executor&quot;: &quot;Run&quot;,
     &quot;Application.Examples.executor&quot;: &quot;Run&quot;,
     &quot;Application.Format.executor&quot;: &quot;Run&quot;,
@@ -150,27 +170,37 @@
     &quot;Application.P12e.executor&quot;: &quot;Run&quot;,
     &quot;Application.Power.executor&quot;: &quot;Run&quot;,
     &quot;Application.PowerSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
     &quot;Application.PriorityQueues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RatInAMaze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RuntimeExec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shadowing.executor&quot;: &quot;Run&quot;,
     &quot;Application.Singleton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
     &quot;Application.SortCyclic.executor&quot;: &quot;Run&quot;,
     &quot;Application.SortMerge.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sqrt.executor&quot;: &quot;Run&quot;,
     &quot;Application.Stacks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
     &quot;Application.StringBuilder.executor&quot;: &quot;Run&quot;,
     &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
     &quot;Application.Stringbuffer.executor&quot;: &quot;Run&quot;,
     &quot;Application.Stringbuilder.executor&quot;: &quot;Run&quot;,
     &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
     &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TablePrint.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCallRun.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestSynchronisation.executor&quot;: &quot;Run&quot;,
     &quot;Application.ThreadbyRunnable.executor&quot;: &quot;Run&quot;,
     &quot;Application.Threadbythread.executor&quot;: &quot;Run&quot;,
     &quot;Application.TokenizerAndJoiner.executor&quot;: &quot;Run&quot;,
     &quot;Application.basicFrame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.client.executor&quot;: &quot;Run&quot;,
     &quot;Application.getHostIP.executor&quot;: &quot;Run&quot;,
     &quot;Application.isSorted.executor&quot;: &quot;Run&quot;,
     &quot;Application.labelHostIP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.server.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.hello.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -372,6 +402,36 @@
       <workItem from="1715242540063" duration="846000" />
       <workItem from="1715274876833" duration="622000" />
       <workItem from="1715761833672" duration="6452000" />
+      <workItem from="1716059724103" duration="18432000" />
+      <workItem from="1716330667103" duration="75000" />
+      <workItem from="1716912451500" duration="33000" />
+      <workItem from="1716962476691" duration="2384000" />
+      <workItem from="1716976287347" duration="8077000" />
+      <workItem from="1717038366188" duration="134000" />
+      <workItem from="1717042305170" duration="109000" />
+      <workItem from="1717308849237" duration="2390000" />
+      <workItem from="1718272842164" duration="11000" />
+      <workItem from="1718654563600" duration="602000" />
+      <workItem from="1719940266454" duration="281000" />
+      <workItem from="1719940602412" duration="152000" />
+      <workItem from="1719940784112" duration="238000" />
+      <workItem from="1719941048297" duration="466000" />
+      <workItem from="1719942081638" duration="9305000" />
+      <workItem from="1720014000882" duration="9043000" />
+      <workItem from="1720085165219" duration="17602000" />
+      <workItem from="1720352054317" duration="10931000" />
+      <workItem from="1720557856541" duration="1486000" />
+      <workItem from="1720610030416" duration="3937000" />
+      <workItem from="1720783806070" duration="220000" />
+      <workItem from="1720785972204" duration="9991000" />
+      <workItem from="1720902701801" duration="8845000" />
+      <workItem from="1721168871154" duration="21852000" />
+      <workItem from="1721967900721" duration="365000" />
+      <workItem from="1722034029704" duration="230000" />
+      <workItem from="1722085666630" duration="3395000" />
+      <workItem from="1722322105583" duration="11915000" />
+      <workItem from="1722607961663" duration="1311000" />
+      <workItem from="1722823063019" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>

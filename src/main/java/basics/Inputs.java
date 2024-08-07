@@ -12,19 +12,45 @@ public class Inputs {
 //        // using BufferedReader
 //        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 //        System.out.print("Enter here: ");
+//
+//        // reading a string
 //        String name = reader.readLine();
+//        String msg = reader.readLine();
+//
+//        System.out.println(name + msg);
+//        // reading an integer
+//        int roll = Integer.parseInt(reader.readLine());
+//        // reading a float
+//        float var = Float.parseFloat(reader.readLine()); // or Double.parseDouble(reader.readLine());
+//
+//        // building an array from input
+//        String[] arr = reader.readLine().split(" ");
+
+        // building an array of integers from input
+        // n
+        // 1 2 3 4 5
+//        int n = Integer.parseInt(reader.readLine());
+//        int[] intArr = new int[n];
+
+
+
+
 //        System.out.println(name);
+
 //
 //        // using Scanner
 //        System.out.print("Enter here: ");
-//        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 //        int roll = input.nextInt();
 //        String name = input.nextLine();
 //        System.out.println(name);
 //
 //        float var = input.nextFloat();
 //        System.out.println(var);
-
+            /* problem with scanner : newline */
+        int roll = input.nextInt();
+        String name = input.nextLine();
+        System.out.println(name);
 //        // continuous input
 //        int sum = 0;
 //        while(input.hasNextInt()){

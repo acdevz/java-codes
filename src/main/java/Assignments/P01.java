@@ -44,28 +44,16 @@ public class P01 {
     /* Practical 2.0 */
 
     private static int partition(List<Integer> arr, int s, int e) {
-        int pivot = arr.get(s);
-
-        int count = 0;
-        for(int i = s; i <= e; i++){
-            if(arr.get(i) < pivot)
-                count++;
-        }
-
-        int pivotIndex = s + count;
-        Collections.swap(arr, s, pivotIndex);
-
-        int i = s, j = e;
-        while(i < pivotIndex && j > pivotIndex){
-            if(arr.get(i) < pivot)
+        int pivot = arr.get(e);
+        int i = s - 1;
+        for(int j = s; j < e; j++) {
+            if (arr.get(j) <= pivot) {
                 i++;
-            else if(arr.get(j) >= pivot)
-                j--;
-            else
-                Collections.swap(arr, i++, j--);
+                Collections.swap(arr, i, j);
+            }
         }
-
-        return pivotIndex;
+        Collections.swap(arr, i + 1, e);
+        return i + 1;
     }
 
     private static void quickSort(List<Integer> arr, int s, int e){
@@ -85,7 +73,7 @@ public class P01 {
 //            arr.add(i - 10);
 //        Collections.sort(arr);
 //
-//        System.out.println("Original Array: " + arr);
+//        System.out.println("Original Array.java: " + arr);
 
         /* Searching */
 //        int target = 10;
@@ -103,7 +91,7 @@ public class P01 {
             arr.add((int) (Math.random() * 50 - 25));
 
 
-        System.out.println("Original Array: " + arr);
+        System.out.println("Original Array.java: " + arr);
 
 
         /* Sorting */
@@ -111,7 +99,7 @@ public class P01 {
         quickSort(arr, 0, arr.size() - 1);
         long endTime = System.currentTimeMillis();
 
-        System.out.println("Sorted Array: " + arr);
+        System.out.println("Sorted Array.java: " + arr);
         System.out.println("Time taken: " + (endTime - startTime) + "ms");
 
     }

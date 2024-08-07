@@ -11,7 +11,7 @@ public class P12d {
         };
 
         int m = 3;
-        int[] colors = new int[graph.length]; // Array to store the colors of the vertices
+        int[] colors = new int[graph.length]; // Array.java to store the colors of the vertices
 
         // Attempt to color the graph with the specified number of colors
         if (GraphColoring.graphColoring(graph, m, colors, 0)) {

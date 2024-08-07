@@ -24,7 +24,7 @@ class NQueens {
     // Method to find all solutions to the N-Queens problem for a given board size
     public static List<List<String>> solveNQueens(int n) {
         List<List<String>> solutions = new ArrayList<>(); // List to store all solutions
-        int[] board = new int[n]; // Array to represent the column position of queens in each row
+        int[] board = new int[n]; // Array.java to represent the column position of queens in each row
         solveNQueensHelper(0, n, board, solutions); // Start solving with the first row
         return solutions; // Return all found solutions
     }

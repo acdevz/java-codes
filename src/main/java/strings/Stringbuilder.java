@@ -13,7 +13,10 @@ public class Stringbuilder {
 
         StringBuilder s = new StringBuilder("Hello");
 
-        s.append(" World").append("!"); // returns itself...
-        System.out.println(s);
+        s.append(" World").append("!"); // returns itself..
+        System.out.println(s.replace(0,1, ""));
+        s.deleteCharAt(s.length() - 1);
+        s.append(45);
+        System.out.println(s.toString());
     }
 }

@@ -12,7 +12,7 @@ public class P002 {
 
     public void getJaggedArray(){
         Scanner in = new Scanner(System.in);
-        System.out.println("Jagged Array : rows?");
+        System.out.println("Jagged Array.java : rows?");
         rows = in.nextInt();
         for(int i = 0; i < rows; i++){
             int cols = in.nextInt();
@@ -76,10 +76,10 @@ public class P002 {
     public static void main(String[] args) {
         P002 p = new P002();
         p.getJaggedArray();
-        System.out.println("Jagged Array: ");
+        System.out.println("Jagged Array.java: ");
         p.printJaggedArray();
         p.mergeArray();
-        System.out.println("Merged Array: ");
+        System.out.println("Merged Array.java: ");
         p.printMergedArray();
     }
 }

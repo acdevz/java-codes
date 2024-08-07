@@ -92,15 +92,15 @@ public class P02 {
 //        List<Integer> arr = new ArrayList<>();
 //        for (int i = 0; i < 10; i++)
 //            arr.add((int) (Math.random() * 10 - 5));
-//        System.out.println("Original Array: " + arr);
+//        System.out.println("Original Array.java: " + arr);
 
 //        mergeSort(arr, 0, arr.size() - 1);
-//        System.out.println("Sorted Array: " + arr);
+//        System.out.println("Sorted Array.java: " + arr);
 
         List<Integer> arr = new ArrayList<>(Arrays.asList(170, 45, 75, 90, 802, 24, 2, 66));
-        System.out.println("Original Array: " + arr);
+        System.out.println("Original Array.java: " + arr);
 
         radixSort(arr);
-        System.out.println("Sorted Array: " + arr);
+        System.out.println("Sorted Array.java: " + arr);
     }
 }

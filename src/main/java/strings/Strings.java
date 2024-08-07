@@ -4,10 +4,10 @@ import java.util.Arrays;
 
 public class Strings {
     public static void main(String[] args) {
-
         // using String new keyword...
         char[] ch = {'j','a','v','a'};
         String s = new String(ch);
+        StringBuilder h = new StringBuilder("java");
 //        or...
 //        s = "java";
         System.out.println(s);
@@ -37,7 +37,6 @@ public class Strings {
         change(str);
 //        str.concat(" Hi!"); // returns! not changes the value of str...
         System.out.println(str + " is palindrome? " + isPalindrome(str));
-
         String sg = "java";
         System.out.println(sg.compareToIgnoreCase("jav"));
         System.out.println(sg.equals("java"));

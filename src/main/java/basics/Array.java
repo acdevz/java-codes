@@ -2,7 +2,7 @@ package basics;
 
 import java.util.*;
 
-public class Arrays {
+public class Array {
     public static void main(String[] args) {
 //        Syntax:
 //        datatype[] var_name = new datatype[size]
@@ -34,6 +34,13 @@ public class Arrays {
         for (int i: arr){
             System.out.print(i + " ");
         }
+
+//        get max/ min
+        int min = Arrays.stream(arr).min().getAsInt();
+        int max = Arrays.stream(arr).max().getAsInt();
+
+//        or
+        int min2 = Arrays.stream(arr).min().orElse(0);
 
     }
 

@@ -40,11 +40,12 @@ public class P03 {
         int N = arr.size();
         for (int i = 1; i < N; i++){
             int key = arr.get(i);
-            for(int j = i; j > 0; j--){
-                if(arr.get(j-1) > key){
-                    Collections.swap(arr, j, j-1);
-                }
+            int j = i - 1;
+            while(j >= 0 && arr.get(j) > key){
+                arr.set(j + 1, arr.get(j));
+                j--;
             }
+            arr.set(j + 1, key);
         }
     }
 
@@ -86,8 +87,8 @@ public class P03 {
 
     public static void main(String[] args) {
         List<Integer> arr = new ArrayList<>();
-        for(int i = 0; i < 20; i++){
-            arr.add((int) (Math.random() * 100 - 50));
+        for(int i = 0; i < 5; i++){
+            arr.add(100 - i);
         }
 //        selectionSort(arr);
         insertionSort(arr);

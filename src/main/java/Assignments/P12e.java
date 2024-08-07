@@ -57,7 +57,7 @@ class GraphChromaticNumber {
     // Method to find the chromatic number by incrementally testing the number of colors
     public static int findChromaticNumber(int[][] graph) {
         int n = graph.length; // Number of vertices
-        int[] colors = new int[n]; // Array to store the colors for each vertex
+        int[] colors = new int[n]; // Array.java to store the colors for each vertex
 
         // Start with 1 color and increase until a valid coloring is found
         for (int m = 1; m <= n; m++) {

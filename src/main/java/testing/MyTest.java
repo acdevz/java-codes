@@ -13,6 +13,10 @@ public class MyTest implements PI1, PI2 {
     public static void main(String[] args) {
         MyTest t = new MyTest();
         t.showPI1();
+
+        byte b = 50;
+        b *= 2;
+        System.out.println(b);
     }
 }
 

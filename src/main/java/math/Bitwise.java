@@ -17,7 +17,7 @@ public class Bitwise {
 //        System.out.println(nthPascalSum(3));
 
 //        System.out.println(isPowerOf2(1));
-//        System.out.println(power(3, 9));
+        System.out.println(power(3, 2));
 
         System.out.println(rangeXOR(4, 6));
     }

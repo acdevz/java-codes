@@ -91,19 +91,22 @@ public class P04 {
     /* Heap Sort */
 
     private static void heapSort(int[] arr){
+        for(int i = arr.length / 2 - 1; i >= 0; i--){
+            heapify(arr, arr.length - 1, i);
+        }
         int n = arr.length - 1;
-        while(n > 1){
-            heapify(arr, n, 1);
-            int temp = arr[1];
-            arr[1] = arr[n];
+        while(n >= 1){
+            int temp = arr[0];
+            arr[0] = arr[n];
             arr[n--] = temp;
+            heapify(arr, n, 0);
         }
     }
 
-    private static void heapify(int[] arr, int n, int i){
+    private static void heapify(int[] arr, int n, int i){ // n inclusive
         int largest = i;
-        int left = 2 * i;
-        int right = 2 * i + 1;
+        int left = 2 * i + 1;
+        int right = 2 * i + 2;
 
         if(left <= n && arr[largest] < arr[left]){
             largest = left;
@@ -127,20 +130,20 @@ public class P04 {
     *  */
 
     public static void main(String[] args) {
-        System.out.println("Counting Sort");
-        int[] A = {2, 5, 3, 0, 2, 3, 1, 3};
-        int k = 6;
-        int[] B = countingSort(A, k);
-        System.out.println("Sorted Array: " + Arrays.toString(B));
-
-        System.out.println("\nBucket Sort");
-        double[] C = {0.897, 0.565, 0.656, 0.1234, 0.665, 0.3434};
-        bucketSort(C);
-        System.out.println("Sorted Array: " + Arrays.toString(C));
+//        System.out.println("Counting Sort");
+//        int[] A = {2, 5, 3, 0, 2, 3, 1, 3};
+//        int k = 6;
+//        int[] B = countingSort(A, k);
+//        System.out.println("Sorted Array.java: " + Arrays.toString(B));
+//
+//        System.out.println("\nBucket Sort");
+//        double[] C = {0.897, 0.565, 0.656, 0.1234, 0.665, 0.3434};
+//        bucketSort(C);
+//        System.out.println("Sorted Array.java: " + Arrays.toString(C));
 
         System.out.println("\nHeap Sort");
-        int[] H = {-1, 2, 5, 3, 0, 2, 3, 1, 3};
+        int[] H = {1,2,3,4,5,6,7,8,9,10};
         heapSort(H);
-        System.out.println("Sorted Array: " + Arrays.toString(H));
+        System.out.println("Sorted Array.java: " + Arrays.toString(H));
     }
 }

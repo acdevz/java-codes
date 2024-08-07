@@ -6,7 +6,7 @@ public class LinkedLists {
     public static void main(String[] args) {
 
         /* Syntax */
-        LinkedList list = new LinkedList();
+        LinkedList<Integer> list = new LinkedList<>();
 
         /* Methods */
         list.add(12);

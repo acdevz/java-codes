@@ -13,6 +13,9 @@ public class Main {
         o.methodLocalInner();
 
         o.anonymousInner();
+
+        Outer.GoldFish.bubble();
+
     }
 }
 
@@ -52,6 +55,15 @@ class Outer{
             }
         };
         i.lick();
+    }
+
+    /* static inner class */
+    /* -> can have static methods */
+    /* -> can access static members of outer class */
+    static class GoldFish{
+        public static void bubble(){
+            System.out.println("pew pew pew!");
+        }
     }
 }
 

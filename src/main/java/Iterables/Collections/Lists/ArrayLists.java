@@ -11,19 +11,23 @@ public class ArrayLists {
 
 //        List<Integer> list = new ArrayList<>();
         ArrayList<Integer> list = new ArrayList<>(10);
-
         /* Methods */
 
-        Scanner in = new Scanner(System.in);
-//        list.add(12);
-//        list.add(36);
-//        list.add(67);
-        for (int i = 0; i < 5; i++) {
-            list.add(in.nextInt());
-        }
+//        Scanner in = new Scanner(System.in);
+        list.add(12);
+        list.add(36);
+        list.add(67);
+        list.forEach(x -> System.out.print(x + " "));
+        int[] arr1 = {24, 75};
+        ArrayList<Integer> list2 = new ArrayList<>();
 
-        list.set(0, 36);
-        list.remove(0);
+//        for (int i = 0; i < 5; i++) {
+//            list.add(in.nextInt());
+//        }
+
+//        list.set(0, 36);
+        list.remove(list.size() - 1);
+//        list.remove(0);
         System.out.println(list.contains(36));
         System.out.println(list);
 
@@ -36,6 +40,12 @@ public class ArrayLists {
         Collections.sort(list); // ascending order or list.sort(null);
         list.sort(null);
         list.sort(Collections.reverseOrder()); // descending order
+
+//        Converting to array to int[] arr
+//        Method 1
+        int[] arr = list.stream().mapToInt(i -> i).toArray();
+//        Method 2
+        int[] arr2 = list.stream().mapToInt(Integer::intValue).toArray();
 
         //Multi-dimensional ArrayLists
 
