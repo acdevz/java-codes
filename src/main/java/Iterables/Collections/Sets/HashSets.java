@@ -15,11 +15,11 @@ public class HashSets {
 
         System.out.println(set);
 
-        System.out.println(set.contains(36));
-
-        set.remove(36);
-
-        System.out.println(set);
+//        System.out.println(set.contains(36));
+//
+//        set.remove(36);
+//
+//        System.out.println(set);
 
         set.forEach(System.out::println);
     }

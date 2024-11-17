@@ -17,6 +17,14 @@ public class Stringbuilder {
         System.out.println(s.replace(0,1, ""));
         s.deleteCharAt(s.length() - 1);
         s.append(45);
-        System.out.println(s.toString());
+        s.insert(5, "xxx");
+        final char c = s.charAt(s.length() - 1);
+
+        s.delete(1, 2);
+        System.out.println(s);
+
+        StringBuilder str = new StringBuilder("leetcode");
+        str.insert(4, "code");
+        System.out.println(str);
     }
 }

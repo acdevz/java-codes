@@ -2,10 +2,7 @@ package oops.comparator;
 
 import org.jetbrains.annotations.NotNull;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -19,7 +16,7 @@ public class Main {
         ));
 
         System.out.println(list);
-        Collections.sort(list, new StudentComparator());
+        Collections.sort(list, (a, b) -> a.getName().compareTo(b.getName()));
         System.out.println(list);
     }
 }
@@ -40,12 +37,21 @@ class Student{
     public String toString(){
         return rollNo + " " + name;
     }
-}
 
-class StudentComparator implements Comparator<Student>{
-
-    @Override
-    public int compare(@NotNull Student s1, Student s2) {
-        return s1.getName().compareTo(s2.getName());
+    public int compareTo(Student s){
+        if(this.rollNo > s.rollNo){
+            return 1;
+        }else if(this.rollNo < s.rollNo){
+            return -1;
+        }
+        return 0;
     }
 }
+
+//class StudentComparator implements Comparator<Student>{
+//
+//    @Override
+//    public int compare(@NotNull Student s1, Student s2) {
+//        return s1.getName().compareTo(s2.getName());
+//    }
+//}

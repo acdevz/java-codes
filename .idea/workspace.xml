@@ -5,47 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="new updates.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basics/Consoles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basics/Serializations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/RuntimeExec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/TestCallRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sockets/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sockets/server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testing/RatInAMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testing/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Iterators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/LinkedHashSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Maps/LinkedHashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringMatching/BruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringMatching/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P12c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12c.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P12d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12d.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/P12e.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/P12e.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/MoreOnCollections.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/ArrayLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/LinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/ArrayDeques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/ArrayDeques.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/PriorityQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/PriorityQueues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/HashSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/HashSets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/SortedSets/TreeSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/SortedSets/TreeSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/LinkedHashSet.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Maps/HashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Maps/HashMaps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Maps/SortedMaps/TreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Maps/SortedMaps/TreeMaps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week02/P004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week02/P004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Labs/week03/P002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labs/week03/P002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/Arrays2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Arrays2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Inputs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/math/Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Bitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/TestSynchronisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/TestSynchronisation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/ThreadbyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/ThreadbyRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/Threadbythread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Threadbythread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/InnerClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/InnerClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/math/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/comparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/comparator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Regex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/strings/Stringbuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Stringbuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testing/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/TokenizerAndJoiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/TokenizerAndJoiner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testing/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,12 +91,17 @@
     &quot;Application.Format.executor&quot;: &quot;Run&quot;,
     &quot;Application.GraphChromaticNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashMaps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSets.executor&quot;: &quot;Run&quot;,
     &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
     &quot;Application.Inner.executor&quot;: &quot;Run&quot;,
     &quot;Application.Inputs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KMP.executor&quot;: &quot;Run&quot;,
     &quot;Application.Labs.week02.P001.executor&quot;: &quot;Run&quot;,
     &quot;Application.Labs.week03.P001.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashMaps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashSets.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedLists.executor&quot;: &quot;Run&quot;,
     &quot;Application.Loader.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
@@ -173,6 +159,7 @@
     &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
     &quot;Application.PriorityQueues.executor&quot;: &quot;Run&quot;,
     &quot;Application.RatInAMaze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Regex.executor&quot;: &quot;Run&quot;,
     &quot;Application.RuntimeExec.executor&quot;: &quot;Run&quot;,
     &quot;Application.Shadowing.executor&quot;: &quot;Run&quot;,
     &quot;Application.Singleton.executor&quot;: &quot;Run&quot;,
@@ -201,32 +188,29 @@
     &quot;Application.isSorted.executor&quot;: &quot;Run&quot;,
     &quot;Application.labelHostIP.executor&quot;: &quot;Run&quot;,
     &quot;Application.server.executor&quot;: &quot;Run&quot;,
+    &quot;Application.streams.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.hello.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;java.suggest.annotation.dependency&quot;: &quot;false&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;X:/__codes__/Spring/demo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;X:/__codes__/Java/java-web&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="QodanaReportsService">
-    <option name="descriptions">
-      <ReportDescription localRun="true" path="C:\Users\Aman\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="ec5e8808-5846-4e32-a110-2096d304c504" reportId="java-codes/qodana/2023-12-21" />
-    </option>
-  </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="oops.design.car" />
@@ -248,8 +232,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
       </set>
     </attachedChunks>
   </component>
@@ -432,6 +416,41 @@
       <workItem from="1722322105583" duration="11915000" />
       <workItem from="1722607961663" duration="1311000" />
       <workItem from="1722823063019" duration="2715000" />
+      <workItem from="1723056131786" duration="2923000" />
+      <workItem from="1723116800180" duration="849000" />
+      <workItem from="1723193976309" duration="602000" />
+      <workItem from="1723811504408" duration="910000" />
+      <workItem from="1723887747373" duration="1289000" />
+      <workItem from="1724176854359" duration="601000" />
+      <workItem from="1724608659025" duration="15121000" />
+      <workItem from="1725011067569" duration="3541000" />
+      <workItem from="1725103063689" duration="3636000" />
+      <workItem from="1725271832362" duration="45000" />
+      <workItem from="1725274722831" duration="4262000" />
+      <workItem from="1725630473930" duration="4807000" />
+      <workItem from="1726162911928" duration="9096000" />
+      <workItem from="1726350959655" duration="1943000" />
+      <workItem from="1726407420836" duration="604000" />
+      <workItem from="1726479838690" duration="2274000" />
+      <workItem from="1726841234823" duration="628000" />
+      <workItem from="1727044015944" duration="1320000" />
+      <workItem from="1727136521709" duration="147000" />
+      <workItem from="1727136945798" duration="141000" />
+      <workItem from="1727214312831" duration="1081000" />
+      <workItem from="1727428406392" duration="4045000" />
+      <workItem from="1727500871057" duration="6428000" />
+      <workItem from="1727788181585" duration="1442000" />
+      <workItem from="1728597624748" duration="704000" />
+      <workItem from="1728756305769" duration="1226000" />
+      <workItem from="1729182211246" duration="6499000" />
+      <workItem from="1729604829818" duration="2387000" />
+      <workItem from="1731175245039" duration="133000" />
+      <workItem from="1731232032951" duration="3089000" />
+      <workItem from="1731610258408" duration="340000" />
+      <workItem from="1731610613175" duration="131000" />
+      <workItem from="1731610757237" duration="76000" />
+      <workItem from="1731676932670" duration="522000" />
+      <workItem from="1731755874003" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>
@@ -532,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708192564073</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new updates.">
+      <option name="closed" value="true" />
+      <created>1723058028329</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1723058028329</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +581,8 @@
     <MESSAGE value="Updates in recursion!" />
     <MESSAGE value="leetcode Updates." />
     <MESSAGE value="long long updates pending ;)" />
-    <option name="LAST_COMMIT_MESSAGE" value="long long updates pending ;)" />
+    <MESSAGE value="new updates." />
+    <option name="LAST_COMMIT_MESSAGE" value="new updates." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

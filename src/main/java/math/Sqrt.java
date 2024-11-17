@@ -4,7 +4,7 @@ public class Sqrt {
     public static void main(String[] args) {
         int n = 37;
 //        System.out.println(sqrt2(n));
-        System.out.println(sqrt1(21479, 4));
+        System.out.println(sqrt1(146, 5));
     }
     
      /*Finding Square Root of Numbers
@@ -13,24 +13,22 @@ public class Sqrt {
     static double sqrt1(int n, int p){
         int s = 0;
         int e = n;
-        int m = 0;
-        while (s < e){
-            m = s + (e - s)/2;
-            if (m*m < n){
+        int ans = 0;
+        while (s <= e){
+            int m = s + (e - s) / 2;
+            if (m*m <= n){
                 s = m + 1;
-            }else if (m*m > n) {
-                e = m - 1;
+                ans = m;
             }else{
-                return m;
+                e = m - 1;
             }
         }
-        double root = m; // also check root * root < m : must!
+        double root = ans; // also check root * root < m : must!
         double k = 0.1;
         for (int i = 0; i < p; i++) {
-            while (root * root <= n) {
+            while ((root + k) * (root + k) <= n) {
                 root += k;
             }
-            root -= k;
             k /= 10;
         }
         return root;

@@ -13,10 +13,10 @@ public class ArrayDeques {
         ad.addFirst(67);
         ad.addLast(75);
 
-        ad.removeFirst();
-        ad.removeLast();
+//        ad.removeFirst();
+//        ad.removeLast();
 
-        ad.remove(0);
+//        ad.remove(0);
 
         System.out.println(ad.getFirst());
         System.out.println(ad.getLast());

@@ -36,10 +36,10 @@ public class HashMaps {
 //        Iterator<Map.Entry<Integer, String>> itr = hm.entrySet().iterator();
 
         /* ⭐⭐⭐ */
-//        Integer key = hm.entrySet().iterator().next().getKey();
-//        System.out.println(key + " : " + hm.get(key));
-//        System.out.println(key + 1 + " : " + hm.get(key + 1));
-//        System.out.println(key + 2 + " : " + hm.get(key + 2));
+        Integer key = hm.entrySet().iterator().next().getKey();
+        System.out.println(key + " : " + hm.get(key));
+        System.out.println(key + 1 + " : " + hm.get(key + 1));
+        System.out.println(key + 2 + " : " + hm.get(key + 2));
 
 
         /* interesting */

@@ -1,6 +1,9 @@
 package Iterables.Collections.Lists;
 
+import arrays.Array;
+
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
@@ -19,7 +22,7 @@ public class ArrayLists {
         list.add(67);
         list.forEach(x -> System.out.print(x + " "));
         int[] arr1 = {24, 75};
-        ArrayList<Integer> list2 = new ArrayList<>();
+        ArrayList<Integer> list2 = new ArrayList<>(Arrays.asList(24, 75));
 
 //        for (int i = 0; i < 5; i++) {
 //            list.add(in.nextInt());
@@ -49,7 +52,7 @@ public class ArrayLists {
 
         //Multi-dimensional ArrayLists
 
-//        ArrayList< ArrayList<Integer> > list = new ArrayList<>();
+        ArrayList< ArrayList<Integer> > list2d = new ArrayList<>();
 //
 //        //initializing...
 //        for (int i = 0; i < 3; i++) {

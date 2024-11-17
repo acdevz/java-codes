@@ -21,6 +21,5 @@ public class TokenizerAndJoiner {
         sj.add("legend");
 
         System.out.println(sj);
-
     }
 }
