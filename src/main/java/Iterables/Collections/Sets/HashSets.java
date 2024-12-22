@@ -1,12 +1,13 @@
 package Iterables.Collections.Sets;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
 public class HashSets {
     public static void main(String[] args) {
 
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> set = new HashSet<>(new ArrayList<>());
 
         set.add(12);
         set.add(36);

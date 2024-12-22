@@ -1,15 +1,17 @@
 package arrays;
 
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.Objects;
+import java.util.stream.Collectors;
 
 public class Array {
     public static void main(String[] args) {
-
         int[] arr; // declaration : arr is a reference to an array of int
         arr = new int[5]; // instantiation : arr is a reference to an array of int of size 5 (memory allocation)
         arr = new int[]{3, 5, 2, 8, 9}; // initialization : arr is a reference to an array of int of size 5 with values 3, 5, 2, 8, 9
         int[] arr2 = {3, 5, 2, 8, 9}; // declaration, instantiation and initialization in one line
-
         // accessing elements
         System.out.println(arr[0]); // 3
 
@@ -22,7 +24,22 @@ public class Array {
 
         //reversing...
         reverse(arr);
-        System.out.println(Arrays.toString(arr));
+        String input = "123+345";
+
+        List<Integer> h = (input != null && !input.isEmpty())
+                ? Arrays.stream(input.split("[+]"))
+                .map(x -> {
+                    try {
+                        return Integer.parseInt(x);
+                    } catch (NumberFormatException e) {
+                        return null; // Handle invalid numbers
+                    }
+                })
+                .filter(Objects::nonNull)
+                .collect(Collectors.toList())
+                : Collections.emptyList();
+
+        System.out.println(h); // Output: [123, 345]        System.out.println(Arrays.toString(arr));
 
         //finding max...
         System.out.println( max(arr) );

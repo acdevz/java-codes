@@ -5,27 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35010050-0e4d-45b9-813f-37b8ed65f398" name="Changes" comment="new updates.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Iterators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/LinkedHashSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/Maps/LinkedHashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterables/streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringMatching/BruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringMatching/KMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Automata/NFA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BigNumbers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Files/ReadingFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Files/WritingFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Files/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Flights/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Flights/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Flights/FlightDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Flights/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Flights/ReservationDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/MySQLConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/ArrayLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Lists/LinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/ArrayDeques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/ArrayDeques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/PriorityQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Queues/PriorityQueues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/HashSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/HashSets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Collections/Sets/LinkedHashSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/Maps/HashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/Maps/HashMaps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/math/Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Bitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/math/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Sqrt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oops/comparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oops/comparator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Regex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iterables/streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iterables/streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambda/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/strings/Stringbuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Stringbuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/TokenizerAndJoiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/TokenizerAndJoiner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/testing/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testing/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,10 @@
     &quot;accountId&quot;: &quot;30882afa-010f-4d4a-a581-a908435e8ca7&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -74,143 +78,150 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDeques.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arrays2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bitwise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Chaining.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Characters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Consoles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CopyConstructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Examples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Format.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GraphChromaticNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMaps.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashSets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inputs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KMP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Labs.week02.P001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Labs.week03.P001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedHashMaps.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedHashSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedHashSets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loader.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NormalMultiplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P007.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P008.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P009.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P010.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P015.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09b.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09c.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09d.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09e.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P09f.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P10a.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P10b.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P10c.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P10d.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11a.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11b.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11c.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11d.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11e.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11f.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P11g.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P12a.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P12b.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P12c.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P12d.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P12e.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PriorityQueues.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RatInAMaze.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Regex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RuntimeExec.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shadowing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Singleton.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortCyclic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortMerge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sqrt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stacks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stringbuffer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stringbuilder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TablePrint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCallRun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestSynchronisation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadbyRunnable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Threadbythread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TokenizerAndJoiner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.basicFrame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.getHostIP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.isSorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.labelHostIP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.server.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streams.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.hello.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;java.suggest.annotation.dependency&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;X:/__codes__/Java/java-web&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Array.executor": "Run",
+    "Application.ArrayClass.executor": "Run",
+    "Application.ArrayDeques.executor": "Run",
+    "Application.ArrayLists.executor": "Run",
+    "Application.Arrays2D.executor": "Run",
+    "Application.Bitwise.executor": "Run",
+    "Application.Chaining.executor": "Run",
+    "Application.Characters.executor": "Run",
+    "Application.Consoles.executor": "Run",
+    "Application.CopyConstructor.executor": "Run",
+    "Application.Examples.executor": "Run",
+    "Application.Format.executor": "Run",
+    "Application.GraphChromaticNumber.executor": "Run",
+    "Application.HashMaps.executor": "Run",
+    "Application.HashSets.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.Inner.executor": "Run",
+    "Application.Inputs.executor": "Run",
+    "Application.KMP.executor": "Run",
+    "Application.Labs.week02.P001.executor": "Run",
+    "Application.Labs.week03.P001.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.LinkedHashMaps.executor": "Run",
+    "Application.LinkedHashSet.executor": "Run",
+    "Application.LinkedHashSets.executor": "Run",
+    "Application.LinkedLists.executor": "Run",
+    "Application.Loader.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MySQLConnection.executor": "Run",
+    "Application.MyTest.executor": "Run",
+    "Application.NormalMultiplication.executor": "Run",
+    "Application.P001.executor": "Run",
+    "Application.P002.executor": "Run",
+    "Application.P003.executor": "Run",
+    "Application.P004.executor": "Run",
+    "Application.P005.executor": "Run",
+    "Application.P006.executor": "Run",
+    "Application.P007.executor": "Run",
+    "Application.P008.executor": "Run",
+    "Application.P009.executor": "Run",
+    "Application.P01.executor": "Run",
+    "Application.P010.executor": "Run",
+    "Application.P011.executor": "Run",
+    "Application.P012.executor": "Run",
+    "Application.P013.executor": "Run",
+    "Application.P014.executor": "Run",
+    "Application.P015.executor": "Run",
+    "Application.P02.executor": "Run",
+    "Application.P03.executor": "Run",
+    "Application.P04.executor": "Run",
+    "Application.P05.executor": "Run",
+    "Application.P06.executor": "Run",
+    "Application.P07.executor": "Run",
+    "Application.P08.executor": "Run",
+    "Application.P09.executor": "Run",
+    "Application.P09b.executor": "Run",
+    "Application.P09c.executor": "Run",
+    "Application.P09d.executor": "Run",
+    "Application.P09e.executor": "Run",
+    "Application.P09f.executor": "Run",
+    "Application.P10.executor": "Run",
+    "Application.P10a.executor": "Run",
+    "Application.P10b.executor": "Run",
+    "Application.P10c.executor": "Run",
+    "Application.P10d.executor": "Run",
+    "Application.P11.executor": "Run",
+    "Application.P11a.executor": "Run",
+    "Application.P11b.executor": "Run",
+    "Application.P11c.executor": "Run",
+    "Application.P11d.executor": "Run",
+    "Application.P11e.executor": "Run",
+    "Application.P11f.executor": "Run",
+    "Application.P11g.executor": "Run",
+    "Application.P12a.executor": "Run",
+    "Application.P12b.executor": "Run",
+    "Application.P12c.executor": "Run",
+    "Application.P12d.executor": "Run",
+    "Application.P12e.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.PowerSet.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.PriorityQueues.executor": "Run",
+    "Application.RatInAMaze.executor": "Run",
+    "Application.Regex.executor": "Run",
+    "Application.RuntimeExec.executor": "Run",
+    "Application.Shadowing.executor": "Run",
+    "Application.Singleton.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SortCyclic.executor": "Run",
+    "Application.SortMerge.executor": "Run",
+    "Application.Sqrt.executor": "Run",
+    "Application.Stacks.executor": "Run",
+    "Application.Streams.executor": "Run",
+    "Application.StringBuilder.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.Stringbuffer.executor": "Run",
+    "Application.Stringbuilder.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.TablePrint.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestCallRun.executor": "Run",
+    "Application.TestSynchronisation.executor": "Run",
+    "Application.ThreadbyRunnable.executor": "Run",
+    "Application.Threadbythread.executor": "Run",
+    "Application.TokenizerAndJoiner.executor": "Run",
+    "Application.WritingFiles.executor": "Run",
+    "Application.basicFrame.executor": "Run",
+    "Application.client.executor": "Run",
+    "Application.getHostIP.executor": "Run",
+    "Application.isSorted.executor": "Run",
+    "Application.labelHostIP.executor": "Run",
+    "Application.server.executor": "Run",
+    "Application.streams.executor": "Run",
+    "Node.js.hello.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "java.suggest.annotation.dependency": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "X:/__codes__/Java/java-web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="oops.design.car" />
@@ -232,8 +243,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
       </set>
     </attachedChunks>
   </component>
@@ -451,6 +462,28 @@
       <workItem from="1731610757237" duration="76000" />
       <workItem from="1731676932670" duration="522000" />
       <workItem from="1731755874003" duration="5000" />
+      <workItem from="1731869074070" duration="451000" />
+      <workItem from="1731869546342" duration="4151000" />
+      <workItem from="1732100705540" duration="690000" />
+      <workItem from="1732120177122" duration="599000" />
+      <workItem from="1732176279645" duration="11000" />
+      <workItem from="1732953236014" duration="762000" />
+      <workItem from="1733132085483" duration="1862000" />
+      <workItem from="1733303524485" duration="2459000" />
+      <workItem from="1733349140951" duration="4250000" />
+      <workItem from="1733355738786" duration="2015000" />
+      <workItem from="1733422926573" duration="3677000" />
+      <workItem from="1733482926406" duration="7082000" />
+      <workItem from="1733578142766" duration="1444000" />
+      <workItem from="1733591246254" duration="1387000" />
+      <workItem from="1733682749049" duration="637000" />
+      <workItem from="1733757207811" duration="2635000" />
+      <workItem from="1733913214105" duration="1474000" />
+      <workItem from="1734095648216" duration="1516000" />
+      <workItem from="1734532037273" duration="3382000" />
+      <workItem from="1734794770346" duration="1262000" />
+      <workItem from="1734798323624" duration="6555000" />
+      <workItem from="1734872174858" duration="8484000" />
     </task>
     <task id="LOCAL-00001" summary="java-codes!">
       <created>1672928003190</created>

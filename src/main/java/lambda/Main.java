@@ -2,6 +2,7 @@ package lambda;
 
 import java.util.List;
 import java.util.function.Consumer;
+import java.util.function.Function;
 
 public class Main {
     public static void main(String[] args) {
@@ -26,6 +27,7 @@ public class Main {
         return op.operation(a, b);
     }
 
+    @FunctionalInterface
     private interface Operations{
         int operation(int a, int b);
     }

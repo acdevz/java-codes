@@ -1,6 +1,7 @@
 package basics;
 
 import java.util.Scanner;
+import java.time.Month;
 
 public class SwitchCase {
     public static void main(String[] args) {
@@ -52,5 +53,17 @@ public class SwitchCase {
             }
             default -> System.out.println("hey, does this course even exist?!!");
         }
+
+        System.out.print("Enter the month (e.g., JANUARY): ");
+        Month month = Month.valueOf(in.next().toUpperCase());
+        var result = switch (month) {
+            case JANUARY, JUNE, JULY -> 3;
+            case FEBRUARY, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER -> 1;
+            case MARCH, MAY, APRIL, AUGUST -> {
+                int monthLength = month.toString().length();
+                yield monthLength * 4;
+            }
+            default -> 0;
+        };
     }
 }

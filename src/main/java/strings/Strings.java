@@ -3,7 +3,7 @@ package strings;
 import java.util.Arrays;
 
 public class Strings {
-    public static void main(String[] args) {
+    public static void main(String... args) {
         // using String new keyword...
         char[] ch = {'j','a','v','a'};
         String s = new String(ch);
@@ -31,7 +31,6 @@ public class Strings {
         System.out.println(Arrays.toString(name.toCharArray()));
         System.out.println(name.indent(45));
         System.out.println(name);
-
 
         String str = "abba";
         change(str);

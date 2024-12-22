@@ -14,12 +14,11 @@ public class Stringbuilder {
         StringBuilder s = new StringBuilder("Hello");
 
         s.append(" World").append("!"); // returns itself..
-        System.out.println(s.replace(0,1, ""));
-        s.deleteCharAt(s.length() - 1);
-        s.append(45);
-        s.insert(5, "xxx");
-        final char c = s.charAt(s.length() - 1);
-
+//        System.out.println(s.replace(0,1, ""));
+//        s.deleteCharAt(s.length() - 1);
+//        s.append(45);
+//        s.insert(5, "xxx");
+//        final char c = s.charAt(s.length() - 1);
         s.delete(1, 2);
         System.out.println(s);
 

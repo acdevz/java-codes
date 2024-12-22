@@ -2,10 +2,7 @@ package Iterables.Collections.Lists;
 
 import arrays.Array;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Scanner;
+import java.util.*;
 
 public class ArrayLists {
     public static void main(String[] args) {
@@ -22,7 +19,7 @@ public class ArrayLists {
         list.add(67);
         list.forEach(x -> System.out.print(x + " "));
         int[] arr1 = {24, 75};
-        ArrayList<Integer> list2 = new ArrayList<>(Arrays.asList(24, 75));
+        List<Integer> list2 = new ArrayList<>(Arrays.asList(24, 75));
 
 //        for (int i = 0; i < 5; i++) {
 //            list.add(in.nextInt());
