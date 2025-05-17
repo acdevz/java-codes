@@ -16,7 +16,7 @@ public class Regex {
         }
 //        padding 0s to string to get fixed length
         String s = "123";
-        System.out.println(String.format("%05d", Integer.parseInt(s)));
+        System.out.printf("%05d%n", Integer.parseInt(s));
 
     }
 }

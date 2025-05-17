@@ -7,6 +7,7 @@ public class Format {
     public static void main(String[] args) {
         String formatted = String.format("%s", 123);
         System.out.printf("%s%n", 123);
+/*      Format : %[flags][width][.precision]conversion-character        */
 /*
         Format Specifiers
         %b, %B	"true" or "false" based on the argument
@@ -17,6 +18,7 @@ public class Format {
         %x, %X	a hexadecimal integer (used for integers only)
         %e, %E	for scientific notation (used for floating-point numbers)
         %f	    for decimal numbers (used for floating-point numbers)
+        %t      for date/time values
 */
         System.out.println(formatted);
         System.out.format("%s%n", 123);
